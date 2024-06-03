@@ -2,7 +2,7 @@
 <h2>BREAST CANCER DETECTION</h2>
 <h2>Introduction</h2>
 <h3>
-  This project aims to develop a machine learning model for the early detection of breast cancer. It utilizes the <a href="./data_bc.csv">dataset</a>, which includes various medical features extracted from digitized images of fine needle aspirate (FNA) of breast mass. These features include characteristics such as radius, texture, smoothness, compactness, etc., which are used to classify tumors as malignant or benign. 
+  This project aims to develop a machine learning model for the early detection of breast cancer. It utilizes the <a href="./data_bc.csv">dataset</a>, which includes various medical features extracted from digitized images of fine needle aspirate (FNA) of breast mass. These features include characteristics such as radius, texture, smoothness, compactness, etc., which are used to classify tumors as malignant or benign.The code is present in this <a href="./Mushroom_EP.ipynb">Jupyter notebook
 </h3><hr>
 
 <h2>Features:</h2><ul>
