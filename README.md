@@ -1,0 +1,1 @@
+# RYZEN_TECH_task2
